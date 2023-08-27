@@ -33,7 +33,7 @@ def main():
     )
 
     # Add image of the company logo
-    logo_image = "Corporación_Favorita_Logo.png"  
+    logo_image = "images/Corporación_Favorita_Logo.png"  
     st.image(logo_image, use_column_width=True)
 
     
