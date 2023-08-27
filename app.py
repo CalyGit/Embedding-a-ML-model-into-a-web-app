@@ -33,7 +33,7 @@ def main():
     )
 
     # Add image of the company logo
-    logo_image = "logo-cf-footer.png"  # Replace with your image filename
+    logo_image = "Corporación_Favorita_Logo.png"  
     st.image(logo_image, use_column_width=True)
 
     
@@ -69,10 +69,10 @@ def main():
         'Partner_Yes': [1 if st.checkbox("Partner") else 0],
         'Dependents_Yes': [1 if st.checkbox("Dependents") else 0],
         'PhoneService_Yes': [1 if st.checkbox("Phone Service") else 0],
-        'MultipleLines_No phone service': [0],  # Assuming this is a checkbox
+        'MultipleLines_No phone service': [0],  
         'MultipleLines_Yes': [1 if st.checkbox("Multiple Lines") else 0],
         'InternetService_Fiber optic': [1 if st.checkbox("Fiber Optic Internet") else 0],
-        'InternetService_No': [0],  # Assuming this is a checkbox
+        'InternetService_No': [0],  
         'OnlineSecurity_Yes': [1 if st.checkbox("Online Security") else 0],
         'OnlineBackup_Yes': [1 if st.checkbox("Online Backup") else 0],
         'DeviceProtection_Yes': [1 if st.checkbox("Device Protection") else 0],
@@ -82,7 +82,7 @@ def main():
         'Contract_One year': [1 if st.checkbox("One Year Contract") else 0],
         'Contract_Two year': [1 if st.checkbox("Two Year Contract") else 0],
         'PaperlessBilling_Yes': [1 if st.checkbox("Paperless Billing") else 0],
-        'PaymentMethod_Credit card (automatic)': [0],  # Assuming this is a checkbox
+        'PaymentMethod_Credit card (automatic)': [0],  
         'PaymentMethod_Electronic check': [1 if st.checkbox("Electronic Check") else 0],
         'PaymentMethod_Mailed check': [1 if st.checkbox("Mailed Check") else 0],
         'tenure': [tenure],
