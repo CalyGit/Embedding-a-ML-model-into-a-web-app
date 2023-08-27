@@ -1,7 +1,7 @@
 <h1 align="center">Customer Churn Prediction App</h1>
 
 <p align="center">
-  <img src="images/CF.png" alt="Logo" width="200">
+  <img src="images/imageedit_3_7808371023.png" alt="Logo" width="200">
 </p>
 
 <p align="center">
