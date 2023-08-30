@@ -16,7 +16,7 @@
 
 ## Gradio App - Store Sales Prediction for Corporation Favorita
 <p align="center">
-  <img src="images/Screenshot 2023-08-30 030900.jpg" alt="Logo" width="400">
+  <img src="images/Screenshot 2023-08-30 030900.jpg" alt="Logo" width="800">
 </p>
 Welcome to the Gradio Machine Learning Model Embedding Project using Gradio! This project demonstrates how to embed a machine learning model to predict store sales across different stores of Corporation Favorita, a grocery store chain in Ecuador. The Gradio app provides an interactive interface for users to input variables and obtain sales forecasts.
 
@@ -42,7 +42,7 @@ To run the Gradio app locally for store sales prediction, follow these steps:
 
 ## Streamlit App - Customer Churn Prediction for Vodafone Telecom
 <p align="center">
-  <img src="images/Screenshot 2023-08-30 032642.jpg" alt="Logo" width="400">
+  <img src="images/Screenshot 2023-08-30 032642.jpg" alt="Logo" width="800">
 </p>
 Welcome to the Streamlit Machine Learning Model Embedding Project using Streamlit. This project demonstrates how to embed a machine learning model to predict customer churn for Vodafone Telecom, a telecommunications company. The Streamlit app provides an interactive interface for users to input customer information and get churn predictions.
 
